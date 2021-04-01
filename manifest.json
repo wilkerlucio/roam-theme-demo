@@ -1,0 +1,8 @@
+{
+  "id": "roam-theme-demo",
+  "name": "Demo Theme!",
+  "description": "Just a quick theme example.",
+  "version": "1.0.0",
+  "roam-css": "styles.css",
+  "roam-theme-preview": "preview.png"
+}
